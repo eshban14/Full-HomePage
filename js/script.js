@@ -19,6 +19,10 @@ window.addEventListener("scroll", () => {
 
 
 
+
+// sevices
+
+
 document.addEventListener('DOMContentLoaded', function () {
     const elementsToAnimate = document.querySelectorAll('.hidden');
 
